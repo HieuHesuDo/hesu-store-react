@@ -1,0 +1,30 @@
+.header-container{
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.options {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.options .option {
+    margin-right: 15px;
+    cursor: pointer;
+}
+
+.logo-container {
+    width: 60px;
+    height: 50px;
+    overflow: hidden;
+}
+
+.logo-container img{
+    width: 100%;
+}
